@@ -13,7 +13,7 @@ export default function index() {
                 const { title, href } = link;
                 return (
                     <div key={`b_${i}`} className={styles.linkContainer}>
-                        <motion.div
+\                        <motion.div
                           href={href}
                           custom={i}
                           variants={perspective}

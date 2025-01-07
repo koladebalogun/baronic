@@ -24,7 +24,6 @@ h1{
   text-transform: uppercase;
   font-size: 200px;
   font-weight: 400;
-  /* letter-spacing: -4px; */
 }
 
 section.hero{
@@ -39,7 +38,6 @@ section.hero{
 
 .hero h1{
   font-family: tim;
-  /* font-weight:lighter ; */
   color: #FAF9F6;
   font-size: 7em;
 }
@@ -98,8 +96,8 @@ section.info {
 }
 
 .img {
-  flex: 1; /* Allows each image container to take equal space */
-  overflow: hidden; /* Ensures that images do not overflow their containers */
+  flex: 1;
+  overflow: hidden;
 }
 
 .img img {
@@ -223,7 +221,6 @@ img {
   section.website-content {
     padding: 10px;
     top: 2%;
-    /* margin-top: -450px; */
   }
 
   .website-content h1{

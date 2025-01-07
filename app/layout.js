@@ -6,8 +6,8 @@ import Header from "../components/Header"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Duke 'n' Earls",
-  description: "Duke styles",
+  title: "Baroninc Events",
+  description: "Baroninc Events",
 };
 
 export default function RootLayout({ children }) {

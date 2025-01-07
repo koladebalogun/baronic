@@ -13,15 +13,15 @@ import image10 from "../../public/images/image20.jpg";
 
 const product = [
   {
-    "title": "test",
+    "title": "seyi vibez in sheffield",
     "img":image1
   },
   {
-    "title": "test",
+    "title": "Mayorkun in birmingham",
     "img":image2
   },
   {
-    "title": "test",
+    "title": "Tekno at the o2",
     "img":image3
   },
   {
@@ -58,12 +58,12 @@ const product = [
 export default function Page() {
   return (
     <div className={styles.container}>
-      <h1>Our Products</h1>
+      <h1>Past Shows</h1>
       
 
       <div className={styles.portfolio_list}>
         {product.map((item, index) => (
-          <ProductCard key={index} data={item?.img} title={item?.title}  />
+          <ProductCard key={index} data={item?.img}  />
         ))}
       </div>
       <div className={styles.footer}>
@@ -72,7 +72,8 @@ export default function Page() {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.instagram.com/dukes_n_earls?igsh=MTNnYnFyOTVvOTd1ag=="
+            href="https://www.instagram.com/baroninc.events/"
+            className="footer-link"
           >
             INSTAGRAM
           </a>{" "}
