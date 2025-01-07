@@ -108,26 +108,28 @@ export default function Home() {
   return (
     <div className="container">
       <section className="hero">
-        <h1>DUKE 'N EARLS</h1>
+        <h1>BARON-INC EVENTS</h1>
       </section>
 
       <section className="info">
         <div className="header-rows">
           <div className="header-row">
-            <h1>DUKE 'N</h1>
+            <h1>BARON-INC</h1>
           </div>
           <div className="header-row">
-            <h1>EARLS</h1>
+            <h1>EVENTS</h1>
           </div>
         </div>
       </section>
 
       <section className="header-info">
         <p>
-          Welcome to Duke n Earls, where fashion meets class. We are the epitome
-          of African fashion, blending tradition and innovation seamlessly. We
-          strive to be the go-to brand for those who appreciate the richness of
-          African culture and the allure of high-class fashion.
+          Welcome to Baron-inc Events, where passion meets performance. We are
+          the ultimate fusion of entertainment and sports excellence, crafting
+          unforgettable experiences and empowering talent to shine on the global
+          stage. Our mission is to be the premier destination for those who
+          value the thrill of competition, the art of entertainment, and the
+          pursuit of greatness.
         </p>
 
         <div className="header-images">
@@ -178,15 +180,15 @@ export default function Home() {
       <section className="website-content">
         <h1 className="about">About us</h1>
         <h1>
-          At Duke n Earl, we're passionate about creating a fashion experience
-          that goes beyond just clothing. From the moment you explore our
-          collections to the moment you wear our designs, we want you to feel
-          confident, valued, and proud of your choice. Every piece we offer is
-          thoughtfully crafted with quality and style in mind, so you can
-          express yourself with ease. Our team is always here to help, whether
-          you need advice on styling or have questions about your order. We’re
-          dedicated to making your journey with us memorable, because at Duke n
-          Earl, it’s not just about fashion it’s about how you feel wearing it.
+          At Baron-inc Events, we’re driven by a passion for delivering
+          unparalleled experiences in entertainment and sports. From curating
+          unforgettable events to nurturing top-tier talent, we’re here to bring
+          your visions to life and help you achieve your goals. Every project we
+          undertake is thoughtfully crafted with precision and creativity,
+          ensuring that you feel empowered, celebrated, and at the center of the
+          action. Our team is dedicated to providing exceptional support,
+          whether you’re an athlete, entertainer, or enthusiast. At Elite Edge
+          Management, it’s about creating a legacy worth remembering.
         </h1>
       </section>
     </div>
